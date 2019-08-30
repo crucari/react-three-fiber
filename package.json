@@ -1,0 +1,29 @@
+{
+  "name": "cannon-threejs-in-react-three-fiber",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "cannon": "0.6.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.0",
+    "react-spring": "8.0.19",
+    "react-three-fiber": "2.2.10",
+    "three": "0.106.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
